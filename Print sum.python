@@ -1,0 +1,11 @@
+# write a program to input 2 number & print  their sum
+
+a = int(input (" Enter your number :" )) ;
+#print(a);
+
+b = int(input (" Enter your number :" )) ;
+#print(b);
+
+#sum = a+b;
+
+print (a+b);
