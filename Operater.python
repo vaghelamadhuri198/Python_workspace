@@ -1,0 +1,41 @@
+#Arithmetic operater
+a = 10
+b = 3
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+print(a % b)
+print(a**b)
+
+#Realison operater
+
+print(5 > 3)     # True
+print(5 < 3)     # False
+print(5 >= 3)   # True
+print(5 <= 3)   # False
+print(5 != 3)    # True
+
+#Assignment Operators
+#a = 11
+#b = 31
+#print(a += b)
+#print(a -= b)
+#print(a *= b)
+#print(a /= b)
+#print(a %= b)
+#print(a**b)
+
+#Logical operater
+x = 5
+print(x > 3 and x < 10)
+print(x > 3 or x < 10)
+print(x > 3 != x < 10)
+
+#Bitwise Operators
+print(10 << 21)
+print(10 >> 21)
+print(x > 3 & x < 10)
+print(~100)
+
+
